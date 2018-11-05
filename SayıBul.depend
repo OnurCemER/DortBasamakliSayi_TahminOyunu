@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541163722 source:c:\users\onurc\desktop\c proje denemeleri\sayýbul\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
