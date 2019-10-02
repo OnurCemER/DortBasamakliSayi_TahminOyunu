@@ -6,10 +6,7 @@
 #include <stdbool.h>
 int main()
 {
-    /// Berat Üzek 153301052
-    /// Dörtlü Sayý Bulmaca Oyunu
-
-
+    
 	printf("Sayi bulmaca oyununa hosgeldiniz...\nBilgisayarin urettigi 4 haneli sayiyi tahmin etmeye calisacaksiniz.\n");
 	printf("Sadece bildiginiz sayilar icin eksi, hem sayiyi hem yerini bilirseniz arti puan alacaksiniz.\n\n");
 
